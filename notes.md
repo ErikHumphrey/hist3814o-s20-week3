@@ -57,20 +57,23 @@
 * Some of these spreadsheet import options are familiar, similar to ones in Excel.
 * It worked!
 
-![](https://i.imgur.com/KOyIkho.jpg "It worked!")    
+![It worked!](https://i.imgur.com/KOyIkho.jpg "It worked!")  
+*It worked!*    
 
 ### Navigating Gephi
 
 * While I've worked with graph theory a bit, I don't think I'd want to develop software like this. Seems pretty useful, though.
 * I let the force-directed layout run for at least 7 minutes before stopping it. Though I noticed change over time, I only screenshotted the end result:
 
-![](https://i.imgur.com/jx3Ei30.jpg "End result of force-directed layout")
+![End result of force-directed layout](https://i.imgur.com/jx3Ei30.jpg "End result of force-directed layout")
+*End result of force-directed layout*
 
 * Connected Components returned 27.
 * I might have also applied the colour gradient based on PageRank.
 * Ahhhh, that all came together with the step that added labels. This is pretty useful software and not all that hard to understand, after all.
 
-![](https://i.imgur.com/trWkwZu.jpg "Final preview")
+![Final preview](https://i.imgur.com/trWkwZu.jpg "Final preview")  
+*Final preview*
 
 ### [Network Analysis in Python](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python)
 
@@ -86,5 +89,8 @@
 
 I didn't analyze the content of the original letters too closely, but I would imagine these groups (in cfg.csv) are people in different cities, and the numbers are simply an index of people in those cities (one-indexed).
 
-![](https://i.imgur.com/yE7tWxy.jpg)
-![](https://i.imgur.com/NzOkbGh.jpg)
+![A plot generated in R Studio](https://i.imgur.com/yE7tWxy.jpg "A plot generated in R Studio")  
+*A plot generated in R Studio*
+
+![Another plot generated in R Studio](https://i.imgur.com/NzOkbGh.jpg "Another plot generated in R Studio")  
+*Another plot generated in R Studio*
