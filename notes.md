@@ -1,0 +1,2 @@
+# Notes — Week 3
+
